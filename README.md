@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+<b>Hello!</b> I'm here to learn how to code. 
